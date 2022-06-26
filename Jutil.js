@@ -60,5 +60,3 @@ const $ = (function () {
         return this;
     }
 })();
-
-console.log($('div').dom())
